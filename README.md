@@ -1,1 +1,1 @@
-Distributed information system to support a chain bookstore based on SOA. # LINQBookHub
+Distributed information system to support a chain bookstores based on SOA. Used WCF services which support distributed transactions.
