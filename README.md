@@ -1,4 +1,3 @@
-Used WCF services which support distributed transactions.
 It is a good practice to implement WCF service in three or more layers. The three layers are the service interface layer, the business logic layer, and the data access layer.
 
 Service interface layer includes the service contracts and operation contracts that are used to define the service interfaces.
